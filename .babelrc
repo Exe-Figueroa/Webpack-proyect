@@ -1,0 +1,9 @@
+// creamos un obj con la config de babel
+{
+  "presets": [
+    "@babel/preset-env"
+  ],
+  "plugins": [
+    "@babel/plugin-transform-runtime"
+  ]
+}
